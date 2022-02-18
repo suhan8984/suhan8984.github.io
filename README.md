@@ -2,4 +2,4 @@
 
 Practice:
 Web Page  
-This repository won't be helpful.
+sample blog layout
