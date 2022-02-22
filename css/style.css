@@ -10,6 +10,7 @@ body{
     margin: 0 auto;
     width: 1400px;
     text-align: left;
+    overflow-x: hidden;
 }
 
 @font-face{
