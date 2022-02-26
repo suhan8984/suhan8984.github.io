@@ -35,3 +35,7 @@ jQuery(function($){
     });
 });
 
+$('a[href="#"]').bind('click', function(){
+    alert('아직 구현되지 않은 영역입니다.');
+    return false;
+});
